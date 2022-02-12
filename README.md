@@ -6,9 +6,9 @@ Basta digitar o que deseja procurar, ex "pizza", e pronto aparecerá uma lista c
 
 ## Assuntos tratados neste bootcamp:
 
-{x} - React Components;
-{x} - Styled-Components;
-{x} - Hooks ( Redux, useState, useEffects );
+{x} - React Components
+{x} - Styled-Components
+{x} - Hooks ( Redux, useState, useEffects )
 {x} - React Lottie
 
 ... Entre outras bibliotecas. 
